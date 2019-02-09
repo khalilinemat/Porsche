@@ -45,6 +45,7 @@ public class Option extends TestBasePorsche{
 
 
 
+
     public static Double getOptions_Price() {
         return Options_Price;
     }
@@ -54,8 +55,10 @@ public class Option extends TestBasePorsche{
     }
 
 
+    public static void main(String[] args) {
 
-
+        System.out.println("Test for Git Purposes from local branch of my machine >>>>");
+    }
 
 
 
